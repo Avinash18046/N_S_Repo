@@ -11,3 +11,6 @@ circuit that the frame or cell resides on. The similarity between Frame Relay, A
     in the core of modern networks, since modern optical networks are fast enough that even 
     full-length 1500-byte packets do not incur significant real-time queuing delays.[a] At the same time, MPLS attempts to preserve the traffic engineering (TE) and out-of-band control that\
  made Frame Relay and ATM attractive for deploying large-scale networks
+ wprj Notificationjv
+ jbpioje 
+ kbu fg
