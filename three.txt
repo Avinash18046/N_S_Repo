@@ -1,0 +1,13 @@
+A number of different technologies were previously deployed with essentially identical goals, such 
+as Frame Relay and ATM. Frame Relay and ATM use labels to move frames or cells through a 
+network. The header of the Frame Relay frame and the ATM cell refers to the virtual 
+circuit that the frame or cell resides on. The similarity between Frame Relay, ATM,
+ and MPLS is that at each hop throughout the network, the label value in the header 
+ is changed. This is different from the forwarding of IP packets.[2] MPLS technologies have
+  evolved with the strengths and weaknesses of ATM in mind. MPLS is designed to have 
+  lower overhead than ATM while providing connection-oriented services for variable-length frames,
+   and has replaced much use of ATM in the market.[3] MPLS dispenses with the cell-switching and
+    signaling-protocol baggage of ATM. MPLS recognizes that small ATM cells are not needed 
+    in the core of modern networks, since modern optical networks are fast enough that even 
+    full-length 1500-byte packets do not incur significant real-time queuing delays.[a] At the same time, MPLS attempts to preserve the traffic engineering (TE) and out-of-band control that\
+ made Frame Relay and ATM attractive for deploying large-scale networks

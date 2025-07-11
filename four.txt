@@ -1,0 +1,20 @@
+History
+1994: Toshiba presented Cell Switch Router (CSR) ideas to IETF BOF
+1995: George Varghese and Girish Chandranmenon published paper on threaded indices, a form of label switching, at ACM SIGCOMM annual conference[4]
+1996: Ipsilon, Cisco and IBM announced label-switching plans
+1997: Formation of the IETF MPLS working group
+1999: First MPLS VPN (L3VPN) and TE deployments
+2000: MPLS Traffic Engineering
+2001: First MPLS Request for Comments (RFC) published[5]
+2002: AToM (L2VPN)
+2004: GMPLS; Large-scale L3VPN
+2006: Large-scale TE "Harsh"
+2007: Large-scale L2VPN
+2009: Label Switching Multicast
+2011: MPLS transport profile
+hf7ub 7t  tdvt dybd yd 
+
+210
+219SS
+12
+ghteahaS

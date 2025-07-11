@@ -1,0 +1,12 @@
+Label: 20 bits
+A label with the value of 1 represents the router alert label.
+Traffic Class (TC): 3 bits
+Field for QoS (quality of service) priority and ECN (Explicit Congestion Notification). Prior to 2009 this field was called EXP.[12]
+Bottom of Stack (S): 1 bit
+If this flag is set, it signifies that the current label is the last in the stack.
+Time to Live (TTL): 8 bits
+Time to live.
+These MPLS-labeled packets are switched based on the label instead of a lookup in the IP routing table. When MPLS was conceived, label switching was faster than a routing table lookup because switching could take place directly within the switched fabric and avoided CPU and software involvement.
+
+The presence of such a label has to be indicated to the switch. In the case of Ethernet frames this is done through the use of EtherType values 0x8847 and 0x8848, for unicast and multicast connections respectively.[13]
+Avinahgs bg heyh

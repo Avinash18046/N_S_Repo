@@ -1,0 +1,9 @@
+From Wikipedia, the free encyclopedia
+"MPLS" redirects here. For the U.S. city, see Minneapolis. For other uses, see mpls (disambiguation).
+Multiprotocol Label Switching () is a routing technique in telecommunications networks that directs data from one node to the next based on labels rather than network addresses.[1] Whereas network addresses identify endpoints, the labels identify established paths between endpoints. MPLS can encapsulate packets of various network protocols, hence the multiprotocol component of the name. MPLS supports a range of access technologies, including T1/E1, ATM, Frame Relay, and DSL.
+
+Role
+
+
+Note that you can solve most task in any order!
+Already solved ones are at the bottom of the table.
